@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Excel lock files
+~$*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ellison-Scott source workbooks: not redistributed (see README)
+A_amounts_final_cleanedcopy_WH_2_adj_new_2021 - Copy.xlsx
+Amounts_RE.xlsx
+BGSAmounts.xlsx
+BGSDetails.xlsx
+BGSPrices.xlsx
+BGSPrices_adj_new_2021.xlsx
+Prices_RE.xlsx
+Prices_RE_check_Oct_2003.xlsx
+Specification_2021.xlsx
+Specification_RE.xlsx
